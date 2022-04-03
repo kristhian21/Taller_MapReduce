@@ -1,0 +1,6 @@
+edu\escuelaing\alda\puntoDos\NoStopWords.class
+edu\escuelaing\alda\puntoDos\NoStopWordsMapper.class
+edu\escuelaing\alda\puntoUno\SevenWordsCount.class
+edu\escuelaing\alda\puntoDos\NoStopWordsReducer.class
+edu\escuelaing\alda\puntoUno\SevenWordsCountMapper.class
+edu\escuelaing\alda\puntoUno\SevenWordsCountReduce.class

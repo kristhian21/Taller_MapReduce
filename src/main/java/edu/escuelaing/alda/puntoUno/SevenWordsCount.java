@@ -23,7 +23,7 @@ public class SevenWordsCount {
 
         FileInputFormat.setInputPaths(conf, new Path(args[0]));
         FileOutputFormat.setOutputPath(conf, new Path(args[1]));
-        
+
         JobClient.runJob(conf);
     }
 }
